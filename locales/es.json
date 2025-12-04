@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "role": "Diseñador Gráfico",
+    "hello": "Hola, soy",
+    "subtitle": "Hago miniaturas de YouTube atractivas",
+    "desc": "Especialista en SEO y contenido para YouTube"
+  },
+  "buttons": {
+    "thumbnails": "Ver miniaturas",
+    "hire": "Contrátame"
+  },
+  "projects": {
+    "title": "Miniaturas",
+    "subtitle": "Algunas de mis miniaturas y diseños recientes."
+  },
+  "skills": {
+    "title": "Competencias",
+    "items": [
+      "Adobe Photoshop",
+      "Composición de Miniaturas",
+      "Tipografía",
+      "Teoría del Color",
+      "Consistencia de Marca",
+      "SEO para YouTube"
+    ]
+  },
+  "contact": {
+    "availability": "Disponibilidad",
+    "desc": "Disponible para proyectos freelance y colaboraciones. Si quieres mejorar tus miniaturas de YouTube, ¡escríbeme!"
+  }
+}

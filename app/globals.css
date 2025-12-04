@@ -1,0 +1,32 @@
+/*globals.css*/
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles (if any) */
+body {
+  @apply font-sans;
+}
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;              /* thickness */
+  background: #10b981;      /* emerald color */
+  z-index: 50;              /* stay on top */
+  transition: width 0.2s ease;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.reveal.reveal-in {
+  opacity: 1;
+  transform: none;
+}
+

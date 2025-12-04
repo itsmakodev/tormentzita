@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "role": "Graphic Designer",
+    "hello": "Hi, I'm",
+    "subtitle": "I make beautiful YouTube thumbnails",
+    "desc": "SEO and YouTube content specialist"
+  },
+  "buttons": {
+    "thumbnails": "See thumbnails",
+    "hire": "Hire me"
+  },
+  "projects": {
+    "title": "Thumbnails",
+    "subtitle": "Some of my recent thumbnails and designs."
+  },
+  "skills": {
+    "title": "Skills",
+    "items": [
+      "Adobe Photoshop",
+      "Thumbnail Composition",
+      "Typography",
+      "Color Theory",
+      "Brand Consistency",
+      "YouTube SEO"
+    ]
+  },
+  "contact": {
+    "availability": "Availability",
+    "desc": "Available for freelance projects and collaborations. If you are looking to improve your YouTube thumbnails, write to me!"
+  }
+}

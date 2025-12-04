@@ -1,0 +1,1 @@
+Coloca aquí tus assets (favicon, imágenes de proyectos, etc.).
